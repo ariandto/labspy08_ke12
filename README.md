@@ -1,7 +1,7 @@
 # labspy08_ke12
-NAMA    : Budi Ariyanto
-KELAS   : TI.21.A.1
-NIM     : 312110159
+NAMA    : Budi Ariyanto<p>
+KELAS   : TI.21.A.1<p>
+NIM     : 312110159<p>
 
 Execute program main_data.py untuk menambahkan jumlah data dan berapa data yang akan diinput
 
